@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning data engineering.
+- 🌱 I’m currently learning about data.
 <!--
 **hm-ouse/hm-ouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
